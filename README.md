@@ -6,8 +6,7 @@ own user interface and adding some functionalities.</p>
 <h2>Languages Used</h2>
 <p>These were the Programming Languages used
 <ul><li>HTML</li>
-<li>CSS</li>
-<li>Javascript<li></ul>
+<li>CSS</li></ul>
 <h3>Resources</h3>
 The resources used for this project could be assessed from the following sites:
 <ul><li>Udemy.com: Become a HTML and CSS Developer - Build a responsive site </li>
